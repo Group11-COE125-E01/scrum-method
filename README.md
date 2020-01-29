@@ -39,10 +39,9 @@ The Development Team is a self-organizing, cross-functional group armed with all
 - Better team dynamics
 - Happier employees
 
-## Credits
+## Group Members
 
-TODO: Write credits
+CARINGAL, MIGUEL EPHRAIM
+FERRER, DIDRIC KIRSTEN
+ROBLES, ISAURO ANGELO
 
-## License
-
-TODO: Write license
