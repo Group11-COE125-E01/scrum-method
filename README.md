@@ -41,8 +41,7 @@ The Development Team is a self-organizing, cross-functional group armed with all
 
 ## Group Members
 
-CARINGAL, MIGUEL EPHRAIM
-FERRER, DIDRIC KIRSTEN
-ROBLES, ISAURO ANGELO
+- CARINGAL, MIGUEL EPHRAIM
+- FERRER, DIDRIC KIRSTEN
+- ROBLES, ISAURO ANGELO
 
-##
