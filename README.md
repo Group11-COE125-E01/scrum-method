@@ -1,4 +1,5 @@
-# Scrum-Method
+# Attendance System using Scrum-method
+## Scrum-Method
 
 Scrum is an agile project management methodology or framework used primarily for software development projects with the goal of delivering new software capability every 2-4 weeks. It is one of the approaches that influenced the Agile Manifesto, which articulates a set of values and principles to guide decisions on how to develop higher-quality software faster.
 
